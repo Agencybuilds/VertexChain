@@ -11,7 +11,7 @@ export function Header() {
         <div className="flex items-center justify-between h-16">
           <Link href="/" className="flex items-center gap-2">
             <Image
-              src="/gistPin-header-logo.png"
+              src="/vertexchain-header-logo.png"
               alt="VertexChain Logo"
               width={32}
               height={32}
